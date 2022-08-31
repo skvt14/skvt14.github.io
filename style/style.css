@@ -160,6 +160,14 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   padding: 20px 24px 20px 37px;
   background: #FFF;} 
 
+
+#site_contentnew
+{ width: 950px;
+  overflow: hidden;
+  margin: 0 auto 0 auto;
+  padding: 20px 24px 20px 37px;
+  background: #FFF;} 
+
 .sidebar
 { float: right;
   width: 190px;
